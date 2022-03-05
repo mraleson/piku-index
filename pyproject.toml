@@ -3,12 +3,21 @@ name = "piku-index"
 version = "0.1.0"
 description = ""
 authors = ["Mark Raleson <markraleson@outlook.com>"]
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/mraleson/piku-index.git"
+
+[tool.poetry.scripts]
+pindex = 'piku_index.main:main'
 
 [tool.poetry.dependencies]
 python = "^3.8"
+requests = "^2.27.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
+pylint = "^2.12.2"
+pylint-quotes = "^0.2.3"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
