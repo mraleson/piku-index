@@ -2548,7 +2548,7 @@
           "path": "lib/circuitpython_display_frame",
           "hash": null,
           "dependencies": {
-            "adafruit-circuitpython-display_shapes": "2.3.2",
+            "adafruit_display_shapes": "2.3.2",
             "adafruit-circuitpython-display-text": "2.18.1"
           },
           "raw": {
@@ -2578,7 +2578,7 @@
           "path": "lib/dotstar_featherwing",
           "hash": null,
           "dependencies": {
-            "adafruit-circuitpython-bus-device": "5.1.0",
+            "adafruit_bus_device": "5.1.0",
             "adafruit-circuitpython-dotstar": "2.0.2"
           },
           "raw": {
@@ -28156,7 +28156,7 @@
           "path": "lib/adafruit_io",
           "hash": null,
           "dependencies": {
-            "adafruit_circuitpython_esp32spi": "3.5.10"
+            "adafruit_esp32spi": "3.5.10"
           },
           "raw": {
             "package": true,
@@ -28182,7 +28182,7 @@
           "path": "lib/adafruit_io",
           "hash": null,
           "dependencies": {
-            "adafruit_circuitpython_esp32spi": "3.5.10"
+            "adafruit_esp32spi": "3.5.10"
           },
           "raw": {
             "package": true,
@@ -28208,7 +28208,7 @@
           "path": "lib/adafruit_io",
           "hash": null,
           "dependencies": {
-            "adafruit_circuitpython_esp32spi": "3.5.10"
+            "adafruit_esp32spi": "3.5.10"
           },
           "raw": {
             "package": true,
@@ -28234,7 +28234,7 @@
           "path": "lib/adafruit_io",
           "hash": null,
           "dependencies": {
-            "adafruit_circuitpython_esp32spi": "3.5.11"
+            "adafruit_esp32spi": "3.5.11"
           },
           "raw": {
             "package": true,
@@ -28260,7 +28260,7 @@
           "path": "lib/adafruit_io",
           "hash": null,
           "dependencies": {
-            "adafruit_circuitpython_esp32spi": "3.5.12"
+            "adafruit_esp32spi": "3.5.12"
           },
           "raw": {
             "package": true,
@@ -28286,7 +28286,7 @@
           "path": "lib/adafruit_io",
           "hash": null,
           "dependencies": {
-            "adafruit_circuitpython_esp32spi": "3.5.13"
+            "adafruit_esp32spi": "3.5.13"
           },
           "raw": {
             "package": true,
@@ -32992,8 +32992,8 @@
           "path": "lib/adafruit_lifx",
           "hash": null,
           "dependencies": {
-            "adafruit_circuitpython_esp32spi": "3.5.11",
-            "adafruit_circuitpython_requests": "1.10.1"
+            "adafruit_esp32spi": "3.5.11",
+            "adafruit_requests": "1.10.1"
           },
           "raw": {
             "package": false,
@@ -33020,8 +33020,8 @@
           "path": "lib/adafruit_lifx",
           "hash": null,
           "dependencies": {
-            "adafruit_circuitpython_esp32spi": "3.5.13",
-            "adafruit_circuitpython_requests": "1.10.2"
+            "adafruit_esp32spi": "3.5.13",
+            "adafruit_requests": "1.10.2"
           },
           "raw": {
             "package": false,
@@ -36599,8 +36599,8 @@
           "path": "lib/adafruit_hue",
           "hash": null,
           "dependencies": {
-            "adafruit_circuitpython_esp32spi": "3.5.11",
-            "adafruit_circuitpython_simpleio": "3.0.1"
+            "adafruit_esp32spi": "3.5.11",
+            "simpleio": "3.0.1"
           },
           "raw": {
             "package": false,
@@ -36627,8 +36627,8 @@
           "path": "lib/adafruit_hue",
           "hash": null,
           "dependencies": {
-            "adafruit_circuitpython_esp32spi": "3.5.13",
-            "adafruit_circuitpython_simpleio": "3.0.2"
+            "adafruit_esp32spi": "3.5.13",
+            "simpleio": "3.0.2"
           },
           "raw": {
             "package": false,
@@ -39765,7 +39765,7 @@
           "path": "lib/sparkfun_qwiictwist",
           "hash": null,
           "dependencies": {
-            "adafruit-circuitpython-busdevice": "5.0.6"
+            "adafruit_bus_device": "5.0.6"
           },
           "raw": {
             "package": false,
@@ -39791,7 +39791,7 @@
           "path": "lib/sparkfun_qwiictwist",
           "hash": null,
           "dependencies": {
-            "adafruit-circuitpython-busdevice": "5.1.0"
+            "adafruit_bus_device": "5.1.0"
           },
           "raw": {
             "package": false,
@@ -39817,7 +39817,7 @@
           "path": "lib/sparkfun_qwiictwist",
           "hash": null,
           "dependencies": {
-            "adafruit-circuitpython-busdevice": "5.1.8"
+            "adafruit_bus_device": "5.1.7"
           },
           "raw": {
             "package": false,
@@ -39845,7 +39845,7 @@
           "path": "lib/barbudor_tmp75",
           "hash": null,
           "dependencies": {
-            "adafruit-circuitpython-busdevice": "5.1.8"
+            "adafruit_bus_device": "5.1.7"
           },
           "raw": {
             "package": false,
@@ -39873,7 +39873,7 @@
           "path": "lib/electronutlabs_ltr329als01",
           "hash": null,
           "dependencies": {
-            "adafruit-circuitpython-busdevice": "5.1.8"
+            "adafruit_bus_device": "5.1.7"
           },
           "raw": {
             "package": false,
@@ -39901,7 +39901,7 @@
           "path": "lib/biffobear_as3935",
           "hash": null,
           "dependencies": {
-            "adafruit-circuitpython-busdevice": "5.1.8"
+            "adafruit_bus_device": "5.1.7"
           },
           "raw": {
             "package": false,
@@ -39929,7 +39929,7 @@
           "path": "lib/slight_tlc5957",
           "hash": null,
           "dependencies": {
-            "adafruit-circuitpython-register": "1.9.8"
+            "adafruit_register": "1.9.7"
           },
           "raw": {
             "package": false,
@@ -39981,7 +39981,7 @@
           "path": "lib/circuitpython_nrf24l01",
           "hash": null,
           "dependencies": {
-            "adafruit-circuitpython-busdevice": "5.1.0"
+            "adafruit_bus_device": "5.1.0"
           },
           "raw": {
             "package": true,
@@ -40007,7 +40007,7 @@
           "path": "lib/circuitpython_nrf24l01",
           "hash": null,
           "dependencies": {
-            "adafruit-circuitpython-busdevice": "5.1.8"
+            "adafruit_bus_device": "5.1.7"
           },
           "raw": {
             "package": true,
@@ -40036,7 +40036,7 @@
           "path": "lib/electronutlabs_lis2dh12",
           "hash": null,
           "dependencies": {
-            "adafruit-circuitpython-busdevice": "5.1.8"
+            "adafruit_bus_device": "5.1.7"
           },
           "raw": {
             "package": false,
@@ -40088,7 +40088,7 @@
           "path": "lib/i2cencoderlibv21",
           "hash": null,
           "dependencies": {
-            "adafruit-circuitpython-busdevice": "5.1.8"
+            "adafruit_bus_device": "5.1.7"
           },
           "raw": {
             "package": false,
@@ -40116,7 +40116,7 @@
           "path": "lib/sh1106",
           "hash": null,
           "dependencies": {
-            "adafruit-circuitpython-busdevice": "5.1.8"
+            "adafruit_bus_device": "5.1.7"
           },
           "raw": {
             "package": false,
@@ -40168,7 +40168,7 @@
           "path": "lib/sparkfun_qwiickeypad",
           "hash": null,
           "dependencies": {
-            "adafruit-circuitpython-busdevice": "5.0.6"
+            "adafruit_bus_device": "5.0.6"
           },
           "raw": {
             "package": false,
@@ -40194,7 +40194,7 @@
           "path": "lib/sparkfun_qwiickeypad",
           "hash": null,
           "dependencies": {
-            "adafruit-circuitpython-busdevice": "5.1.0"
+            "adafruit_bus_device": "5.1.0"
           },
           "raw": {
             "package": false,
@@ -40220,7 +40220,7 @@
           "path": "lib/sparkfun_qwiickeypad",
           "hash": null,
           "dependencies": {
-            "adafruit-circuitpython-busdevice": "5.1.8"
+            "adafruit_bus_device": "5.1.7"
           },
           "raw": {
             "package": false,
@@ -40248,8 +40248,8 @@
           "path": "lib/pimoroni_circuitpython_ltr559",
           "hash": null,
           "dependencies": {
-            "adafruit-circuitpython-busdevice": "5.1.8",
-            "adafruit-circuitpython-register": "1.9.8"
+            "adafruit_bus_device": "5.1.7",
+            "adafruit_register": "1.9.7"
           },
           "raw": {
             "package": false,
@@ -40278,7 +40278,7 @@
           "path": "lib/dynamixel",
           "hash": null,
           "dependencies": {
-            "adafruit-circuitpython-busdevice": "5.1.8"
+            "adafruit_bus_device": "5.1.7"
           },
           "raw": {
             "package": false,
@@ -40330,7 +40330,7 @@
           "path": "lib/odt_at42qt1070",
           "hash": null,
           "dependencies": {
-            "adafruit-circuitpython-busdevice": "5.1.8"
+            "adafruit_bus_device": "5.1.7"
           },
           "raw": {
             "package": false,
@@ -40382,7 +40382,7 @@
           "path": "lib/wiichuck",
           "hash": null,
           "dependencies": {
-            "adafruit-circuitpython-busdevice": "5.1.8"
+            "adafruit_bus_device": "5.1.7"
           },
           "raw": {
             "package": true,
@@ -40410,7 +40410,7 @@
           "path": "lib/sparkfun_qwiicrelay",
           "hash": null,
           "dependencies": {
-            "adafruit-circuitpython-busdevice": "5.1.0"
+            "adafruit_bus_device": "5.1.0"
           },
           "raw": {
             "package": false,
@@ -40436,7 +40436,7 @@
           "path": "lib/sparkfun_qwiicrelay",
           "hash": null,
           "dependencies": {
-            "adafruit-circuitpython-busdevice": "5.1.8"
+            "adafruit_bus_device": "5.1.7"
           },
           "raw": {
             "package": false,
@@ -40464,7 +40464,7 @@
           "path": "lib/sparkfun_serlcd",
           "hash": null,
           "dependencies": {
-            "adafruit-circuitpython-busdevice": "5.0.6"
+            "adafruit_bus_device": "5.0.6"
           },
           "raw": {
             "package": false,
@@ -40490,7 +40490,7 @@
           "path": "lib/sparkfun_serlcd",
           "hash": null,
           "dependencies": {
-            "adafruit-circuitpython-busdevice": "5.0.6"
+            "adafruit_bus_device": "5.0.6"
           },
           "raw": {
             "package": false,
@@ -40516,7 +40516,7 @@
           "path": "lib/sparkfun_serlcd",
           "hash": null,
           "dependencies": {
-            "adafruit-circuitpython-busdevice": "5.1.8"
+            "adafruit_bus_device": "5.1.7"
           },
           "raw": {
             "package": false,
@@ -40544,7 +40544,7 @@
           "path": "lib/sparkfun_qwiicjoystick",
           "hash": null,
           "dependencies": {
-            "adafruit-circuitpython-busdevice": "5.0.6"
+            "adafruit_bus_device": "5.0.6"
           },
           "raw": {
             "package": false,
@@ -40570,7 +40570,7 @@
           "path": "lib/sparkfun_qwiicjoystick",
           "hash": null,
           "dependencies": {
-            "adafruit-circuitpython-busdevice": "5.1.0"
+            "adafruit_bus_device": "5.1.0"
           },
           "raw": {
             "package": false,
@@ -40596,7 +40596,7 @@
           "path": "lib/sparkfun_qwiicjoystick",
           "hash": null,
           "dependencies": {
-            "adafruit-circuitpython-busdevice": "5.1.8"
+            "adafruit_bus_device": "5.1.7"
           },
           "raw": {
             "package": false,
@@ -40716,7 +40716,7 @@
           "path": "lib/sparkfun_qwiicas3935",
           "hash": null,
           "dependencies": {
-            "adafruit-circuitpython-busdevice": "5.0.6"
+            "adafruit_bus_device": "5.0.6"
           },
           "raw": {
             "package": false,
@@ -40742,7 +40742,7 @@
           "path": "lib/sparkfun_qwiicas3935",
           "hash": null,
           "dependencies": {
-            "adafruit-circuitpython-busdevice": "5.1.0"
+            "adafruit_bus_device": "5.1.0"
           },
           "raw": {
             "package": false,
@@ -40768,7 +40768,7 @@
           "path": "lib/sparkfun_qwiicas3935",
           "hash": null,
           "dependencies": {
-            "adafruit-circuitpython-busdevice": "5.1.8"
+            "adafruit_bus_device": "5.1.7"
           },
           "raw": {
             "package": false,
@@ -40820,7 +40820,7 @@
           "path": "lib/barbudor_ina3221",
           "hash": null,
           "dependencies": {
-            "adafruit-circuitpython-busdevice": "5.1.8"
+            "adafruit_bus_device": "5.1.7"
           },
           "raw": {
             "package": true,
@@ -40848,7 +40848,7 @@
           "path": "lib/circuitpython_base64",
           "hash": null,
           "dependencies": {
-            "adafruit-circuitpython-binascii": "1.2.8"
+            "adafruit_binascii": "1.2.7"
           },
           "raw": {
             "package": false,
@@ -40876,7 +40876,7 @@
           "path": "lib/circuitpython_schedule",
           "hash": null,
           "dependencies": {
-            "adafruit-circuitpython-datetime": "1.1.6"
+            "adafruit_datetime": "1.1.5"
           },
           "raw": {
             "package": false,
@@ -40928,7 +40928,7 @@
           "path": "lib/circuitpython_hmac",
           "hash": null,
           "dependencies": {
-            "adafruit-circuitpython-hashlib": "1.4.2"
+            "adafruit_hashlib": "1.4.1"
           },
           "raw": {
             "package": false,
@@ -41374,8 +41374,8 @@
           "path": "lib/dotstar_featherwing",
           "hash": null,
           "dependencies": {
-            "adafruit-circuitpython-bus-device": "5.1.8",
-            "adafruit-circuitpython-dotstar": "2.1.3"
+            "adafruit_bus_device": "5.1.7",
+            "adafruit_dotstar": "2.1.2"
           },
           "raw": {
             "package": true,
@@ -41558,7 +41558,7 @@
           "path": "lib/adafruit_discordbot",
           "hash": null,
           "dependencies": {
-            "adafruit-circuitpython-requests": "1.10.7"
+            "adafruit_requests": "1.10.6"
           },
           "raw": {
             "package": false,
@@ -41586,7 +41586,7 @@
           "path": "lib/azurecustomvision_prediction",
           "hash": null,
           "dependencies": {
-            "adafruit-circuitpython-requests": "1.10.7"
+            "adafruit_requests": "1.10.6"
           },
           "raw": {
             "package": false,
@@ -41638,8 +41638,8 @@
           "path": "lib/circuitpython_display_frame",
           "hash": null,
           "dependencies": {
-            "adafruit-circuitpython-display_shapes": "2.4.2",
-            "adafruit-circuitpython-display-text": "2.22.1"
+            "adafruit_display_shapes": "2.4.1",
+            "adafruit_display_text": "2.22.0"
           },
           "raw": {
             "package": false,
@@ -41764,8 +41764,8 @@
           "path": "lib/community_tca9555",
           "hash": null,
           "dependencies": {
-            "adafruit-circuitpython-busdevice": "5.1.8",
-            "adafruit-circuitpython-register": "1.9.8"
+            "adafruit_bus_device": "5.1.7",
+            "adafruit_register": "1.9.7"
           },
           "raw": {
             "package": false,
@@ -41862,7 +41862,7 @@
           "path": "lib/wws_74hc165",
           "hash": null,
           "dependencies": {
-            "adafruit-circuitpython-busdevice": "5.1.8"
+            "adafruit_bus_device": "5.1.7"
           },
           "raw": {
             "package": false,
@@ -41890,10 +41890,10 @@
           "path": "lib/trellism4_extended",
           "hash": null,
           "dependencies": {
-            "adafruit-circuitpython-busdevice": "5.1.8",
-            "adafruit-circuitpython-seesaw": "1.10.7",
-            "adafruit-circuitpython-matrixkeypad": "1.2.7",
-            "adafruit-circuitpython-neopixel": "6.2.4"
+            "adafruit_bus_device": "5.1.7",
+            "adafruit_seesaw": "1.10.6",
+            "adafruit_matrixkeypad": "1.2.6",
+            "neopixel": "6.2.3"
           },
           "raw": {
             "package": false,
@@ -41924,7 +41924,7 @@
           "path": "lib/i2c_button",
           "hash": null,
           "dependencies": {
-            "adafruit-circuitpython-busdevice": "5.1.8"
+            "adafruit_bus_device": "5.1.7"
           },
           "raw": {
             "package": false,
@@ -41952,7 +41952,7 @@
           "path": "lib/bluepad32",
           "hash": null,
           "dependencies": {
-            "adafruit-circuitpython-esp32spi": "3.5.13"
+            "adafruit_esp32spi": "3.5.13"
           },
           "raw": {
             "package": true,
@@ -41978,7 +41978,7 @@
           "path": "lib/bluepad32",
           "hash": null,
           "dependencies": {
-            "adafruit-circuitpython-esp32spi": "4.0.2"
+            "adafruit_esp32spi": "4.0.1"
           },
           "raw": {
             "package": true,
@@ -42293,9 +42293,9 @@
           "version": "1.3.2",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_tsl2591",
           "hash": null,
@@ -42423,9 +42423,9 @@
           "version": "1.2.11",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_si5351",
           "hash": null,
@@ -42539,9 +42539,9 @@
           "version": "1.3.11",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_il0373",
           "hash": null,
@@ -42671,9 +42671,9 @@
           "version": "1.5.8",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_pcf8523",
           "hash": null,
@@ -42782,9 +42782,9 @@
           "version": "1.2.8",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_vcnl4040",
           "hash": null,
@@ -42878,9 +42878,9 @@
           "version": "1.3.2",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ssd1331",
           "hash": null,
@@ -42946,9 +42946,9 @@
           "version": "1.1.6",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_dymoscale",
           "hash": null,
@@ -43072,9 +43072,9 @@
           "version": "2.2.3",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_rfm9x",
           "hash": null,
@@ -43209,9 +43209,9 @@
           "version": "3.2.11",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_bmp280",
           "hash": null,
@@ -43305,9 +43305,9 @@
           "version": "1.0.9",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ms8607",
           "hash": null,
@@ -43431,9 +43431,9 @@
           "version": "5.1.13",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_lis3dh",
           "hash": null,
@@ -43540,9 +43540,9 @@
           "version": "1.0.7",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_lis331",
           "hash": null,
@@ -43679,9 +43679,9 @@
           "version": "1.2.11",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_amg88xx",
           "hash": null,
@@ -43753,9 +43753,9 @@
           "version": "0.4.8",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_hcsr04",
           "hash": null,
@@ -43933,9 +43933,9 @@
           "version": "1.4.2",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_vl6180x",
           "hash": null,
@@ -44093,9 +44093,9 @@
           "version": "1.5.5",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_st7789",
           "hash": null,
@@ -44227,9 +44227,9 @@
           "version": "4.1.3",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_irremote",
           "hash": null,
@@ -44357,9 +44357,9 @@
           "version": "2.0.10",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_icm20x",
           "hash": null,
@@ -44513,9 +44513,9 @@
           "version": "0.11.3",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_htu21d",
           "hash": null,
@@ -44641,9 +44641,9 @@
           "version": "1.3.9",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ds18x20",
           "hash": null,
@@ -44795,9 +44795,9 @@
           "version": "2.1.11",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_fxos8700",
           "hash": null,
@@ -44904,9 +44904,9 @@
           "version": "1.1.12",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_lis3mdl",
           "hash": null,
@@ -45015,9 +45015,9 @@
           "version": "1.0.7",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_bh1750",
           "hash": null,
@@ -45173,9 +45173,9 @@
           "version": "3.4.2",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_bme680",
           "hash": null,
@@ -45289,9 +45289,9 @@
           "version": "1.1.9",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_il0398",
           "hash": null,
@@ -45447,9 +45447,9 @@
           "version": "1.2.3",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_mcp9600",
           "hash": null,
@@ -45553,9 +45553,9 @@
           "version": "1.1.3",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_bno08x",
           "hash": null,
@@ -45713,9 +45713,9 @@
           "version": "1.0.8",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ssd1681",
           "hash": null,
@@ -45789,9 +45789,9 @@
           "version": "1.4.5",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_mcp4725",
           "hash": null,
@@ -45893,9 +45893,9 @@
           "version": "1.2.9",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_mprls",
           "hash": null,
@@ -46023,9 +46023,9 @@
           "version": "2.0.9",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_mlx90393",
           "hash": null,
@@ -46129,9 +46129,9 @@
           "version": "1.1.1",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_nunchuk",
           "hash": null,
@@ -46283,9 +46283,9 @@
           "version": "2.1.12",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_lsm9ds1",
           "hash": null,
@@ -46415,9 +46415,9 @@
           "version": "3.1.9",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ra8875",
           "hash": null,
@@ -46691,9 +46691,9 @@
           "version": "2.6.10",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_bme280",
           "hash": null,
@@ -46821,9 +46821,9 @@
           "version": "1.3.3",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_cap1188",
           "hash": null,
@@ -46980,9 +46980,9 @@
           "version": "2.2.2",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_scd30",
           "hash": null,
@@ -47197,9 +47197,9 @@
           "version": "5.4.0",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_bno055",
           "hash": null,
@@ -47365,9 +47365,9 @@
           "version": "2.1.3",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_dotstar",
           "hash": null,
@@ -47534,9 +47534,9 @@
           "version": "2.0.9",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_as726x",
           "hash": null,
@@ -47697,9 +47697,9 @@
           "version": "1.1.10",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_veml7700",
           "hash": null,
@@ -47883,9 +47883,9 @@
           "version": "1.3.14",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_fram",
           "hash": null,
@@ -48105,9 +48105,9 @@
           "version": "4.3.0",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ht16k33",
           "hash": null,
@@ -48237,9 +48237,9 @@
           "version": "1.2.10",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_mpl3115a2",
           "hash": null,
@@ -48346,9 +48346,9 @@
           "version": "1.2.9",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_lps35hw",
           "hash": null,
@@ -48457,9 +48457,9 @@
           "version": "2.1.9",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ds1307",
           "hash": null,
@@ -48575,9 +48575,9 @@
           "version": "1.3.1",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_stmpe610",
           "hash": null,
@@ -48735,13 +48735,41 @@
           "path": "lib/adafruit_mcp9808",
           "hash": null,
           "dependencies": {
+            "adafruit_bus_device": "5.1.7",
+            "adafruit_register": "1.9.7"
+          },
+          "raw": {
+            "package": false,
+            "pypi_name": "adafruit-circuitpython-mcp9808",
+            "version": "3.3.10",
+            "repo": "https://github.com/adafruit/adafruit_circuitpython_mcp9808",
+            "path": "lib/adafruit_mcp9808",
+            "dependencies": [
+              "adafruit_bus_device",
+              "adafruit_register"
+            ],
+            "external_dependencies": []
+          }
+        },
+        "3.3.11": {
+          "package": "adafruit_mcp9808",
+          "version": "3.3.11",
+          "bundle": {
+            "name": "adafruit",
+            "build": "20220312",
+            "target": "7",
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
+          },
+          "path": "lib/adafruit_mcp9808",
+          "hash": null,
+          "dependencies": {
             "adafruit_bus_device": "5.1.8",
             "adafruit_register": "1.9.8"
           },
           "raw": {
             "package": false,
             "pypi_name": "adafruit-circuitpython-mcp9808",
-            "version": "3.3.10",
+            "version": "3.3.11",
             "repo": "https://github.com/adafruit/adafruit_circuitpython_mcp9808",
             "path": "lib/adafruit_mcp9808",
             "dependencies": [
@@ -48846,9 +48874,9 @@
           "version": "1.3.3",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ssd1327",
           "hash": null,
@@ -49046,9 +49074,9 @@
           "version": "0.6.3",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_espatcontrol",
           "hash": null,
@@ -49174,9 +49202,9 @@
           "version": "2.3.7",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_pn532",
           "hash": null,
@@ -49328,9 +49356,9 @@
           "version": "1.3.9",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_bmp3xx",
           "hash": null,
@@ -49422,9 +49450,9 @@
           "version": "1.3.2",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_hx8357",
           "hash": null,
@@ -49524,9 +49552,9 @@
           "version": "2.2.9",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_lsm9ds0",
           "hash": null,
@@ -49680,9 +49708,9 @@
           "version": "2.3.10",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_sht31d",
           "hash": null,
@@ -49845,9 +49873,9 @@
           "version": "1.3.2",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_adt7410",
           "hash": null,
@@ -49963,9 +49991,9 @@
           "version": "2.0.3",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_tlc59711",
           "hash": null,
@@ -50063,9 +50091,9 @@
           "version": "1.1.10",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_lsm303dlh_mag",
           "hash": null,
@@ -50165,9 +50193,9 @@
           "version": "0.5.2",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_tca9548a",
           "hash": null,
@@ -50408,9 +50436,9 @@
           "version": "4.3.1",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_lsm6ds",
           "hash": null,
@@ -50540,9 +50568,9 @@
           "version": "3.2.11",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_max31855",
           "hash": null,
@@ -50788,14 +50816,14 @@
           "version": "6.2.1",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_pyportal",
           "hash": null,
           "dependencies": {
-            "adafruit_portalbase": "1.10.1",
+            "adafruit_portalbase": "1.11.0",
             "adafruit_bus_device": "5.1.8",
             "adafruit_touchscreen": "1.1.10",
             "adafruit_esp32spi": "4.0.2",
@@ -50954,9 +50982,9 @@
           "version": "2.5.3",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_mcp230xx",
           "hash": null,
@@ -51084,9 +51112,9 @@
           "version": "2.2.12",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_max31865",
           "hash": null,
@@ -51358,9 +51386,9 @@
           "version": "2.12.4",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ssd1306",
           "hash": null,
@@ -51490,9 +51518,9 @@
           "version": "3.2.2",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_is31fl3731",
           "hash": null,
@@ -51584,9 +51612,9 @@
           "version": "1.3.6",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_thermal_printer",
           "hash": null,
@@ -51652,9 +51680,9 @@
           "version": "1.2.7",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_tfmini",
           "hash": null,
@@ -51754,9 +51782,9 @@
           "version": "0.10.9",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ws2801",
           "hash": null,
@@ -51858,9 +51886,9 @@
           "version": "1.0.11",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_mcp2515",
           "hash": null,
@@ -51942,9 +51970,9 @@
           "version": "2.3.7",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_crickit",
           "hash": null,
@@ -52240,9 +52268,9 @@
           "version": "1.2.6",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_as7341",
           "hash": null,
@@ -52326,9 +52354,9 @@
           "version": "1.0.6",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_pcf8591",
           "hash": null,
@@ -52458,9 +52486,9 @@
           "version": "0.11.0",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_vcnl4010",
           "hash": null,
@@ -52567,9 +52595,9 @@
           "version": "1.0.6",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_tc74",
           "hash": null,
@@ -52653,9 +52681,9 @@
           "version": "0.9.3",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/neopixel_spi",
           "hash": null,
@@ -52767,9 +52795,9 @@
           "version": "1.3.4",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ina260",
           "hash": null,
@@ -52899,9 +52927,9 @@
           "version": "3.1.10",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_veml6070",
           "hash": null,
@@ -53036,9 +53064,9 @@
           "version": "1.3.7",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ccs811",
           "hash": null,
@@ -53175,9 +53203,9 @@
           "version": "1.1.4",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ltr390",
           "hash": null,
@@ -53271,9 +53299,9 @@
           "version": "2.2.3",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_fingerprint",
           "hash": null,
@@ -53339,9 +53367,9 @@
           "version": "1.2.8",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_max9744",
           "hash": null,
@@ -53439,9 +53467,9 @@
           "version": "0.9.9",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_max31856",
           "hash": null,
@@ -53548,9 +53576,9 @@
           "version": "1.2.9",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_msa301",
           "hash": null,
@@ -53712,9 +53740,9 @@
           "version": "1.1.11",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_emc2101",
           "hash": null,
@@ -53868,9 +53896,9 @@
           "version": "2.1.12",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_fxas21002c",
           "hash": null,
@@ -53996,9 +54024,9 @@
           "version": "1.2.2",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_mcp4728",
           "hash": null,
@@ -54183,9 +54211,9 @@
           "version": "3.4.1",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_pca9685",
           "hash": null,
@@ -54291,9 +54319,9 @@
           "version": "2.1.7",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_rfm69",
           "hash": null,
@@ -54371,9 +54399,9 @@
           "version": "1.1.8",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_veml6075",
           "hash": null,
@@ -54527,9 +54555,9 @@
           "version": "3.10.11",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_rgb_display",
           "hash": null,
@@ -54643,9 +54671,9 @@
           "version": "1.2.2",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ssd1322",
           "hash": null,
@@ -54873,9 +54901,9 @@
           "version": "3.0.3",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_clue",
           "hash": null,
@@ -55073,9 +55101,9 @@
           "version": "1.1.4",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_shtc3",
           "hash": null,
@@ -55155,9 +55183,9 @@
           "version": "1.2.9",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_sharpmemorydisplay",
           "hash": null,
@@ -55261,9 +55289,9 @@
           "version": "4.3.0",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_vc0706",
           "hash": null,
@@ -55399,9 +55427,9 @@
           "version": "1.4.2",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ssd1325",
           "hash": null,
@@ -55541,9 +55569,9 @@
           "version": "3.3.13",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_character_lcd",
           "hash": null,
@@ -55682,9 +55710,9 @@
           "version": "2.2.1",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_lc709203f",
           "hash": null,
@@ -55836,9 +55864,9 @@
           "version": "1.0.8",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_sht4x",
           "hash": null,
@@ -55966,9 +55994,9 @@
           "version": "2.1.7",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_pm25",
           "hash": null,
@@ -56100,9 +56128,9 @@
           "version": "1.1.12",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_pct2075",
           "hash": null,
@@ -56182,9 +56210,9 @@
           "version": "1.2.8",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ds2413",
           "hash": null,
@@ -56440,9 +56468,9 @@
           "version": "4.0.2",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_esp32spi",
           "hash": null,
@@ -56631,9 +56659,9 @@
           "version": "1.1.1",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_tmp117",
           "hash": null,
@@ -56713,9 +56741,9 @@
           "version": "3.3.8",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_tsl2561",
           "hash": null,
@@ -56878,9 +56906,9 @@
           "version": "2.10.2",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_epd",
           "hash": null,
@@ -56960,9 +56988,9 @@
           "version": "3.3.7",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_sdcard",
           "hash": null,
@@ -57054,9 +57082,9 @@
           "version": "1.2.2",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_st7735",
           "hash": null,
@@ -57178,9 +57206,9 @@
           "version": "3.3.10",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_tcs34725",
           "hash": null,
@@ -57289,9 +57317,9 @@
           "version": "1.5.8",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_trellism4",
           "hash": null,
@@ -57371,9 +57399,9 @@
           "version": "1.2.8",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_vs1053",
           "hash": null,
@@ -57503,9 +57531,9 @@
           "version": "1.2.2",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_drv2605",
           "hash": null,
@@ -57713,9 +57741,9 @@
           "version": "0.3.2",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_monsterm4sk",
           "hash": null,
@@ -57856,9 +57884,9 @@
           "version": "1.1.10",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_lsm303_accel",
           "hash": null,
@@ -57942,9 +57970,9 @@
           "version": "2.1.5",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_fona",
           "hash": null,
@@ -58133,9 +58161,9 @@
           "version": "2.4.11",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ds3231",
           "hash": null,
@@ -58295,9 +58323,9 @@
           "version": "1.2.12",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ssd1608",
           "hash": null,
@@ -58400,9 +58428,9 @@
           "version": "1.2.7",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_tlv493d",
           "hash": null,
@@ -58540,9 +58568,9 @@
           "version": "1.5.3",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_st7735r",
           "hash": null,
@@ -58692,9 +58720,9 @@
           "version": "1.2.11",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_am2320",
           "hash": null,
@@ -58786,9 +58814,9 @@
           "version": "1.2.8",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_pixie",
           "hash": null,
@@ -58862,9 +58890,9 @@
           "version": "1.2.7",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_lidarlite",
           "hash": null,
@@ -58978,9 +59006,9 @@
           "version": "1.3.2",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_displayio_ssd1305",
           "hash": null,
@@ -59078,9 +59106,9 @@
           "version": "2.3.7",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_sgp30",
           "hash": null,
@@ -59162,9 +59190,9 @@
           "version": "1.0.3",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_mlx90395",
           "hash": null,
@@ -59301,9 +59329,9 @@
           "version": "1.0.5",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_tla202x",
           "hash": null,
@@ -59383,9 +59411,9 @@
           "version": "1.1.8",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_mpl115a2",
           "hash": null,
@@ -59467,9 +59495,9 @@
           "version": "1.1.9",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ds3502",
           "hash": null,
@@ -59573,9 +59601,9 @@
           "version": "2.1.10",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_mpr121",
           "hash": null,
@@ -59741,9 +59769,9 @@
           "version": "5.0.3",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_circuitplayground",
           "hash": null,
@@ -60149,9 +60177,9 @@
           "version": "1.10.7",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_seesaw",
           "hash": null,
@@ -60243,9 +60271,9 @@
           "version": "1.3.2",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ssd1351",
           "hash": null,
@@ -60454,9 +60482,9 @@
           "version": "2.1.1",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_dps310",
           "hash": null,
@@ -60612,9 +60640,9 @@
           "version": "1.3.4",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_74hc595",
           "hash": null,
@@ -60692,9 +60720,9 @@
           "version": "2.1.8",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_tmp006",
           "hash": null,
@@ -60808,9 +60836,9 @@
           "version": "1.0.8",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_bno08x_rvc",
           "hash": null,
@@ -60960,9 +60988,9 @@
           "version": "1.3.11",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_mma8451",
           "hash": null,
@@ -61120,9 +61148,9 @@
           "version": "1.0.6",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ssd1680",
           "hash": null,
@@ -61227,9 +61255,9 @@
           "version": "1.2.9",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_atecc",
           "hash": null,
@@ -61361,9 +61389,9 @@
           "version": "3.5.1",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_vl53l0x",
           "hash": null,
@@ -61499,9 +61527,9 @@
           "version": "1.5.2",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_displayio_ssd1306",
           "hash": null,
@@ -61635,9 +61663,9 @@
           "version": "1.5.1",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_max7219",
           "hash": null,
@@ -61753,9 +61781,9 @@
           "version": "1.1.9",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ssd1675",
           "hash": null,
@@ -61858,9 +61886,9 @@
           "version": "2.0.6",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_lps2x",
           "hash": null,
@@ -61996,9 +62024,9 @@
           "version": "3.0.1",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_apds9960",
           "hash": null,
@@ -62110,9 +62138,9 @@
           "version": "3.4.12",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ina219",
           "hash": null,
@@ -62196,9 +62224,9 @@
           "version": "1.0.4",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_aw9523",
           "hash": null,
@@ -62350,9 +62378,9 @@
           "version": "1.3.4",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_si4713",
           "hash": null,
@@ -62459,9 +62487,9 @@
           "version": "1.2.6",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_mlx90640",
           "hash": null,
@@ -62617,9 +62645,9 @@
           "version": "3.4.0",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_si7021",
           "hash": null,
@@ -62726,9 +62754,9 @@
           "version": "2.1.11",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_lis2mdl",
           "hash": null,
@@ -62888,9 +62916,9 @@
           "version": "3.7.1",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_dht",
           "hash": null,
@@ -63038,9 +63066,9 @@
           "version": "2.3.9",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_l3gd20",
           "hash": null,
@@ -63142,9 +63170,9 @@
           "version": "1.2.8",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_mlx90614",
           "hash": null,
@@ -63274,9 +63302,9 @@
           "version": "1.3.0",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_focaltouch",
           "hash": null,
@@ -63346,9 +63374,9 @@
           "version": "1.3.6",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_tlc5947",
           "hash": null,
@@ -63480,9 +63508,9 @@
           "version": "1.1.10",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_touchscreen",
           "hash": null,
@@ -63610,9 +63638,9 @@
           "version": "1.2.3",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_rplidar",
           "hash": null,
@@ -63640,9 +63668,9 @@
           "version": "1.2.5",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_lsm303",
           "hash": null,
@@ -63720,9 +63748,9 @@
           "version": "1.1.8",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_bluefruitspi",
           "hash": null,
@@ -63800,9 +63828,9 @@
           "version": "2.1.7",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_tmp007",
           "hash": null,
@@ -63912,9 +63940,9 @@
           "version": "1.3.9",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ssd1305",
           "hash": null,
@@ -63986,9 +64014,9 @@
           "version": "1.1.7",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_us100",
           "hash": null,
@@ -64062,9 +64090,9 @@
           "version": "1.3.9",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_trellis",
           "hash": null,
@@ -64294,9 +64322,9 @@
           "version": "3.9.7",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_gps",
           "hash": null,
@@ -64378,9 +64406,9 @@
           "version": "1.1.8",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_bd3491fs",
           "hash": null,
@@ -64508,9 +64536,9 @@
           "version": "1.1.3",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_htu31d",
           "hash": null,
@@ -64592,9 +64620,9 @@
           "version": "1.2.7",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_pcd8544",
           "hash": null,
@@ -64726,9 +64754,9 @@
           "version": "2.2.12",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ads1x15",
           "hash": null,
@@ -65004,9 +65032,9 @@
           "version": "1.12.2",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_wiznet5k",
           "hash": null,
@@ -65184,9 +65212,9 @@
           "version": "6.2.4",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/neopixel",
           "hash": null,
@@ -65322,9 +65350,9 @@
           "version": "1.2.3",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_il91874",
           "hash": null,
@@ -65500,9 +65528,9 @@
           "version": "1.5.1",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_displayio_sh1107",
           "hash": null,
@@ -65580,9 +65608,9 @@
           "version": "1.1.7",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_tpa2016",
           "hash": null,
@@ -65719,9 +65747,9 @@
           "version": "1.1.8",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_hts221",
           "hash": null,
@@ -65855,9 +65883,9 @@
           "version": "1.1.10",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_mpu6050",
           "hash": null,
@@ -65929,9 +65957,9 @@
           "version": "1.2.7",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_matrixkeypad",
           "hash": null,
@@ -66153,9 +66181,9 @@
           "version": "1.3.3",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_sgp40",
           "hash": null,
@@ -66240,12 +66268,38 @@
           "path": "lib/adafruit_neotrellis",
           "hash": null,
           "dependencies": {
-            "adafruit_seesaw": "1.10.7"
+            "adafruit_seesaw": "1.10.6"
           },
           "raw": {
             "package": true,
             "pypi_name": "adafruit-circuitpython-neotrellis",
             "version": "1.1.7",
+            "repo": "https://github.com/adafruit/adafruit_circuitpython_neotrellis",
+            "path": "lib/adafruit_neotrellis",
+            "dependencies": [
+              "adafruit_seesaw"
+            ],
+            "external_dependencies": []
+          }
+        },
+        "1.1.8": {
+          "package": "adafruit_neotrellis",
+          "version": "1.1.8",
+          "bundle": {
+            "name": "adafruit",
+            "build": "20220312",
+            "target": "7",
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
+          },
+          "path": "lib/adafruit_neotrellis",
+          "hash": null,
+          "dependencies": {
+            "adafruit_seesaw": "1.10.7"
+          },
+          "raw": {
+            "package": true,
+            "pypi_name": "adafruit-circuitpython-neotrellis",
+            "version": "1.1.8",
             "repo": "https://github.com/adafruit/adafruit_circuitpython_neotrellis",
             "path": "lib/adafruit_neotrellis",
             "dependencies": [
@@ -66349,9 +66403,9 @@
           "version": "1.3.3",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ili9341",
           "hash": null,
@@ -66553,9 +66607,9 @@
           "version": "1.12.1",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_adxl34x",
           "hash": null,
@@ -66625,9 +66679,9 @@
           "version": "1.3.5",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_rockblock",
           "hash": null,
@@ -66783,9 +66837,9 @@
           "version": "1.0.10",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ahtx0",
           "hash": null,
@@ -66869,9 +66923,9 @@
           "version": "1.0.7",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ds1841",
           "hash": null,
@@ -66951,9 +67005,9 @@
           "version": "1.4.7",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_mcp3xxx",
           "hash": null,
@@ -67089,9 +67143,9 @@
           "version": "3.4.1",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_thermistor",
           "hash": null,
@@ -67189,9 +67243,9 @@
           "version": "1.0.7",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ble_midi",
           "hash": null,
@@ -67248,8 +67302,8 @@
           "path": "lib/adafruit_lifx",
           "hash": null,
           "dependencies": {
-            "adafruit_circuitpython_esp32spi": "3.5.11",
-            "adafruit_circuitpython_requests": "1.10.1"
+            "adafruit_esp32spi": "3.5.11",
+            "adafruit_requests": "1.10.1"
           },
           "raw": {
             "package": false,
@@ -67276,8 +67330,8 @@
           "path": "lib/adafruit_lifx",
           "hash": null,
           "dependencies": {
-            "adafruit_circuitpython_esp32spi": "4.0.0",
-            "adafruit_circuitpython_requests": "1.10.5"
+            "adafruit_esp32spi": "4.0.0",
+            "adafruit_requests": "1.10.5"
           },
           "raw": {
             "package": false,
@@ -67297,15 +67351,15 @@
           "version": "1.10.2",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_lifx",
           "hash": null,
           "dependencies": {
-            "adafruit_circuitpython_esp32spi": "4.0.2",
-            "adafruit_circuitpython_requests": "1.10.7"
+            "adafruit_esp32spi": "4.0.2",
+            "adafruit_requests": "1.10.7"
           },
           "raw": {
             "package": false,
@@ -67371,9 +67425,9 @@
           "version": "0.2.11",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_miniesptool",
           "hash": null,
@@ -67447,9 +67501,9 @@
           "version": "2.0.8",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ble_berrymed_pulse_oximeter",
           "hash": null,
@@ -67563,9 +67617,9 @@
           "version": "1.1.8",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_wsgi",
           "hash": null,
@@ -67631,9 +67685,9 @@
           "version": "3.0.3",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/simpleio",
           "hash": null,
@@ -67721,9 +67775,9 @@
           "version": "1.2.8",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_binascii",
           "hash": null,
@@ -67823,9 +67877,9 @@
           "version": "2.2.6",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ntp",
           "hash": null,
@@ -68005,9 +68059,9 @@
           "version": "1.15.4",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_imageload",
           "hash": null,
@@ -68107,9 +68161,9 @@
           "version": "0.9.7",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_display_notification",
           "hash": null,
@@ -68201,9 +68255,9 @@
           "version": "1.1.8",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_itertools",
           "hash": null,
@@ -68309,9 +68363,9 @@
           "version": "1.2.9",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_boardtest",
           "hash": null,
@@ -68441,9 +68495,9 @@
           "version": "1.1.9",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_rgbled",
           "hash": null,
@@ -68521,9 +68575,9 @@
           "version": "1.1.6",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ble_cycling_speed_and_cadence",
           "hash": null,
@@ -68556,8 +68610,8 @@
           "path": "lib/adafruit_hue",
           "hash": null,
           "dependencies": {
-            "adafruit_circuitpython_esp32spi": "3.5.11",
-            "adafruit_circuitpython_simpleio": "3.0.1"
+            "adafruit_esp32spi": "3.5.11",
+            "simpleio": "3.0.1"
           },
           "raw": {
             "package": false,
@@ -68584,8 +68638,8 @@
           "path": "lib/adafruit_hue",
           "hash": null,
           "dependencies": {
-            "adafruit_circuitpython_esp32spi": "4.0.0",
-            "adafruit_circuitpython_simpleio": "3.0.2"
+            "adafruit_esp32spi": "4.0.0",
+            "simpleio": "3.0.2"
           },
           "raw": {
             "package": false,
@@ -68605,15 +68659,15 @@
           "version": "1.1.7",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_hue",
           "hash": null,
           "dependencies": {
-            "adafruit_circuitpython_esp32spi": "4.0.2",
-            "adafruit_circuitpython_simpleio": "3.0.3"
+            "adafruit_esp32spi": "4.0.2",
+            "simpleio": "3.0.3"
           },
           "raw": {
             "package": false,
@@ -68737,9 +68791,9 @@
           "version": "2.2.6",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_tinylora",
           "hash": null,
@@ -68875,9 +68929,9 @@
           "version": "3.3.5",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_motor",
           "hash": null,
@@ -69141,9 +69195,9 @@
           "version": "5.2.3",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_minimqtt",
           "hash": null,
@@ -69209,9 +69263,9 @@
           "version": "1.2.5",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_jwt",
           "hash": null,
@@ -69518,14 +69572,14 @@
           "version": "3.0.4",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_matrixportal",
           "hash": null,
           "dependencies": {
-            "adafruit_portalbase": "1.10.1",
+            "adafruit_portalbase": "1.11.0",
             "adafruit_esp32spi": "4.0.2",
             "adafruit_bitmap_font": "1.5.6",
             "adafruit_display_text": "2.22.1",
@@ -69613,7 +69667,7 @@
           "path": "lib/adafruit_io",
           "hash": null,
           "dependencies": {
-            "adafruit_circuitpython_esp32spi": "3.5.10"
+            "adafruit_esp32spi": "3.5.10"
           },
           "raw": {
             "package": true,
@@ -69639,7 +69693,7 @@
           "path": "lib/adafruit_io",
           "hash": null,
           "dependencies": {
-            "adafruit_circuitpython_esp32spi": "3.5.10"
+            "adafruit_esp32spi": "3.5.10"
           },
           "raw": {
             "package": true,
@@ -69665,7 +69719,7 @@
           "path": "lib/adafruit_io",
           "hash": null,
           "dependencies": {
-            "adafruit_circuitpython_esp32spi": "3.5.10"
+            "adafruit_esp32spi": "3.5.10"
           },
           "raw": {
             "package": true,
@@ -69691,7 +69745,7 @@
           "path": "lib/adafruit_io",
           "hash": null,
           "dependencies": {
-            "adafruit_circuitpython_esp32spi": "3.5.11"
+            "adafruit_esp32spi": "3.5.11"
           },
           "raw": {
             "package": true,
@@ -69717,7 +69771,7 @@
           "path": "lib/adafruit_io",
           "hash": null,
           "dependencies": {
-            "adafruit_circuitpython_esp32spi": "3.5.12"
+            "adafruit_esp32spi": "3.5.12"
           },
           "raw": {
             "package": true,
@@ -69743,7 +69797,7 @@
           "path": "lib/adafruit_io",
           "hash": null,
           "dependencies": {
-            "adafruit_circuitpython_esp32spi": "4.0.0"
+            "adafruit_esp32spi": "4.0.0"
           },
           "raw": {
             "package": true,
@@ -69762,14 +69816,14 @@
           "version": "5.6.1",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_io",
           "hash": null,
           "dependencies": {
-            "adafruit_circuitpython_esp32spi": "4.0.2"
+            "adafruit_esp32spi": "4.0.2"
           },
           "raw": {
             "package": true,
@@ -69868,9 +69922,9 @@
           "version": "0.9.7",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ble_apple_media",
           "hash": null,
@@ -70024,9 +70078,9 @@
           "version": "1.4.0",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ble_adafruit",
           "hash": null,
@@ -70140,9 +70194,9 @@
           "version": "1.4.3",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_avrprog",
           "hash": null,
@@ -70242,9 +70296,9 @@
           "version": "1.9.8",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_register",
           "hash": null,
@@ -70336,9 +70390,9 @@
           "version": "1.3.2",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_bitbangio",
           "hash": null,
@@ -70412,9 +70466,9 @@
           "version": "1.0.6",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_oauth2",
           "hash": null,
@@ -70638,9 +70692,9 @@
           "version": "5.2.2",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_hid",
           "hash": null,
@@ -70728,9 +70782,9 @@
           "version": "1.4.9",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_framebuf",
           "hash": null,
@@ -70816,9 +70870,9 @@
           "version": "1.6.4",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_motorkit",
           "hash": null,
@@ -70960,9 +71014,9 @@
           "version": "1.4.2",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_hashlib",
           "hash": null,
@@ -71050,9 +71104,9 @@
           "version": "3.1.1",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_gc_iot_core",
           "hash": null,
@@ -71164,9 +71218,9 @@
           "version": "2.0.3",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_simplemath",
           "hash": null,
@@ -71264,9 +71318,9 @@
           "version": "1.2.7",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ble_ibbq",
           "hash": null,
@@ -71468,9 +71522,9 @@
           "version": "1.4.6",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220309",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220309.zip"
           },
           "path": "lib/adafruit_midi",
           "hash": null,
@@ -71479,6 +71533,28 @@
             "package": true,
             "pypi_name": "adafruit-circuitpython-midi",
             "version": "1.4.6",
+            "repo": "https://github.com/adafruit/adafruit_circuitpython_midi",
+            "path": "lib/adafruit_midi",
+            "dependencies": [],
+            "external_dependencies": []
+          }
+        },
+        "1.4.7": {
+          "package": "adafruit_midi",
+          "version": "1.4.7",
+          "bundle": {
+            "name": "adafruit",
+            "build": "20220312",
+            "target": "7",
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
+          },
+          "path": "lib/adafruit_midi",
+          "hash": null,
+          "dependencies": {},
+          "raw": {
+            "package": true,
+            "pypi_name": "adafruit-circuitpython-midi",
+            "version": "1.4.7",
             "repo": "https://github.com/adafruit/adafruit_circuitpython_midi",
             "path": "lib/adafruit_midi",
             "dependencies": [],
@@ -71668,9 +71744,9 @@
           "version": "2.4.2",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_display_shapes",
           "hash": null,
@@ -71780,9 +71856,9 @@
           "version": "1.3.10",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_waveform",
           "hash": null,
@@ -71848,9 +71924,9 @@
           "version": "1.3.8",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_miniqr",
           "hash": null,
@@ -72054,7 +72130,7 @@
             "adafruit_button": "1.6.2",
             "adafruit_display_text": "2.21.2",
             "adafruit_touchscreen": "1.1.9",
-            "adafruit-circuitpython-bitmap_font": "1.5.5"
+            "adafruit_bitmap_font": "1.5.5"
           },
           "raw": {
             "package": false,
@@ -72077,9 +72153,9 @@
           "version": "2.5.3",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_pyoa",
           "hash": null,
@@ -72087,7 +72163,7 @@
             "adafruit_button": "1.6.3",
             "adafruit_display_text": "2.22.1",
             "adafruit_touchscreen": "1.1.10",
-            "adafruit-circuitpython-bitmap_font": "1.5.6"
+            "adafruit_bitmap_font": "1.5.6"
           },
           "raw": {
             "package": false,
@@ -72310,9 +72386,9 @@
           "version": "0.6.1",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_pioasm",
           "hash": null,
@@ -72390,9 +72466,9 @@
           "version": "1.1.4",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_pixel_framebuf",
           "hash": null,
@@ -72486,9 +72562,9 @@
           "version": "1.2.1",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_bluefruit_connect",
           "hash": null,
@@ -72706,9 +72782,9 @@
           "version": "1.14.5",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_featherwing",
           "hash": null,
@@ -72806,9 +72882,9 @@
           "version": "2.0.8",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_aws_iot",
           "hash": null,
@@ -73006,9 +73082,9 @@
           "version": "2.3.3",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_progressbar",
           "hash": null,
@@ -73206,9 +73282,9 @@
           "version": "2.5.14",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_led_animation",
           "hash": null,
@@ -73274,9 +73350,9 @@
           "version": "1.2.6",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_rsa",
           "hash": null,
@@ -73376,9 +73452,9 @@
           "version": "1.0.8",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ble_eddystone",
           "hash": null,
@@ -73655,14 +73731,14 @@
           "version": "2.1.7",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_magtag",
           "hash": null,
           "dependencies": {
-            "adafruit_portalbase": "1.10.1",
+            "adafruit_portalbase": "1.11.0",
             "neopixel": "6.2.4",
             "adafruit_requests": "1.10.7",
             "simpleio": "3.0.3"
@@ -73765,9 +73841,9 @@
           "version": "1.1.10",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ble_heart_rate",
           "hash": null,
@@ -73901,9 +73977,9 @@
           "version": "1.6.3",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_button",
           "hash": null,
@@ -74065,9 +74141,9 @@
           "version": "2.2.5",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_turtle",
           "hash": null,
@@ -74284,9 +74360,9 @@
           "version": "1.3.8",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_gizmo",
           "hash": null,
@@ -74428,9 +74504,9 @@
           "version": "1.7.3",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_slideshow",
           "hash": null,
@@ -74518,9 +74594,9 @@
           "version": "0.9.10",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ble_magic_light",
           "hash": null,
@@ -74740,9 +74816,9 @@
           "version": "1.10.7",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_requests",
           "hash": null,
@@ -74894,9 +74970,9 @@
           "version": "0.12.1",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ble_broadcastnet",
           "hash": null,
@@ -75056,9 +75132,9 @@
           "version": "1.2.9",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_debug_i2c",
           "hash": null,
@@ -75148,9 +75224,9 @@
           "version": "1.4.8",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_fancyled",
           "hash": null,
@@ -75224,9 +75300,9 @@
           "version": "0.9.7",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ble_apple_notification_center",
           "hash": null,
@@ -75819,14 +75895,14 @@
           "version": "2.1.12",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_funhouse",
           "hash": null,
           "dependencies": {
-            "adafruit_portalbase": "1.10.1",
+            "adafruit_portalbase": "1.11.0",
             "adafruit_dotstar": "2.1.3",
             "adafruit_requests": "1.10.7",
             "simpleio": "3.0.3",
@@ -76444,9 +76520,49 @@
           "version": "1.10.1",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220308",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220308.zip"
+          },
+          "path": "lib/adafruit_portalbase",
+          "hash": null,
+          "dependencies": {
+            "adafruit_bitmap_font": "1.5.5",
+            "adafruit_display_text": "2.22.0",
+            "neopixel": "6.2.3",
+            "adafruit_requests": "1.10.6",
+            "adafruit_io": "5.6.0",
+            "simpleio": "3.0.2",
+            "adafruit_fakerequests": "1.0.5",
+            "adafruit_miniqr": "1.3.7"
+          },
+          "raw": {
+            "package": true,
+            "pypi_name": "adafruit-circuitpython-portalbase",
+            "version": "1.10.1",
+            "repo": "https://github.com/adafruit/adafruit_circuitpython_portalbase",
+            "path": "lib/adafruit_portalbase",
+            "dependencies": [
+              "adafruit_bitmap_font",
+              "adafruit_display_text",
+              "neopixel",
+              "adafruit_requests",
+              "adafruit_io",
+              "simpleio",
+              "adafruit_fakerequests",
+              "adafruit_miniqr"
+            ],
+            "external_dependencies": []
+          }
+        },
+        "1.11.0": {
+          "package": "adafruit_portalbase",
+          "version": "1.11.0",
+          "bundle": {
+            "name": "adafruit",
+            "build": "20220312",
+            "target": "7",
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_portalbase",
           "hash": null,
@@ -76463,7 +76579,7 @@
           "raw": {
             "package": true,
             "pypi_name": "adafruit-circuitpython-portalbase",
-            "version": "1.10.1",
+            "version": "1.11.0",
             "repo": "https://github.com/adafruit/adafruit_circuitpython_portalbase",
             "path": "lib/adafruit_portalbase",
             "dependencies": [
@@ -76554,9 +76670,9 @@
           "version": "1.1.6",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_datetime",
           "hash": null,
@@ -77077,9 +77193,9 @@
           "version": "1.17.0",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_displayio_layout",
           "hash": null,
@@ -77392,9 +77508,9 @@
           "version": "3.6.3",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_pybadger",
           "hash": null,
@@ -77636,9 +77752,9 @@
           "version": "5.1.8",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_bus_device",
           "hash": null,
@@ -77750,9 +77866,9 @@
           "version": "1.0.6",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_fakerequests",
           "hash": null,
@@ -77876,9 +77992,9 @@
           "version": "1.0.5",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ble_lywsd03mmc",
           "hash": null,
@@ -78059,9 +78175,9 @@
           "version": "1.3.8",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_servokit",
           "hash": null,
@@ -78240,12 +78356,38 @@
           "path": "lib/adafruit_debouncer",
           "hash": null,
           "dependencies": {
-            "adafruit_ticks": "1.0.2"
+            "adafruit_ticks": "1.0.1"
           },
           "raw": {
             "package": false,
             "pypi_name": "adafruit-circuitpython-debouncer",
             "version": "1.5.0",
+            "repo": "https://github.com/adafruit/adafruit_circuitpython_debouncer",
+            "path": "lib/adafruit_debouncer",
+            "dependencies": [
+              "adafruit_ticks"
+            ],
+            "external_dependencies": []
+          }
+        },
+        "1.6.0": {
+          "package": "adafruit_debouncer",
+          "version": "1.6.0",
+          "bundle": {
+            "name": "adafruit",
+            "build": "20220312",
+            "target": "7",
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
+          },
+          "path": "lib/adafruit_debouncer",
+          "hash": null,
+          "dependencies": {
+            "adafruit_ticks": "1.0.2"
+          },
+          "raw": {
+            "package": false,
+            "pypi_name": "adafruit-circuitpython-debouncer",
+            "version": "1.6.0",
             "repo": "https://github.com/adafruit/adafruit_circuitpython_debouncer",
             "path": "lib/adafruit_debouncer",
             "dependencies": [
@@ -78391,9 +78533,9 @@
           "version": "2.4.11",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_rtttl",
           "hash": null,
@@ -78507,9 +78649,9 @@
           "version": "2.2.8",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_pypixelbuf",
           "hash": null,
@@ -78729,9 +78871,9 @@
           "version": "1.5.6",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_bitmap_font",
           "hash": null,
@@ -78907,9 +79049,9 @@
           "version": "3.7.5",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_logging",
           "hash": null,
@@ -78975,9 +79117,9 @@
           "version": "1.0.3",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_airlift",
           "hash": null,
@@ -79229,14 +79371,14 @@
           "version": "2.7.0",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_cursorcontrol",
           "hash": null,
           "dependencies": {
-            "adafruit_debouncer": "1.5.0"
+            "adafruit_debouncer": "1.6.0"
           },
           "raw": {
             "package": true,
@@ -79323,9 +79465,9 @@
           "version": "1.1.9",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_bitmapsaver",
           "hash": null,
@@ -79589,9 +79731,9 @@
           "version": "2.22.1",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_display_text",
           "hash": null,
@@ -79747,9 +79889,9 @@
           "version": "0.5.1",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ble_radio",
           "hash": null,
@@ -79853,9 +79995,9 @@
           "version": "1.2.9",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_onewire",
           "hash": null,
@@ -80101,9 +80243,9 @@
           "version": "8.2.1",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ble",
           "hash": null,
@@ -80298,9 +80440,9 @@
           "version": "2.5.1",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_azureiot",
           "hash": null,
@@ -80394,9 +80536,9 @@
           "version": "2.0.3",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/colorsys",
           "hash": null,
@@ -80518,9 +80660,9 @@
           "version": "1.0.4",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ov7670",
           "hash": null,
@@ -80634,9 +80776,9 @@
           "version": "1.1.2",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_dash_display",
           "hash": null,
@@ -80842,9 +80984,9 @@
           "version": "1.2.3",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_simple_text_display",
           "hash": null,
@@ -81020,9 +81162,9 @@
           "version": "1.1.2",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ov2640",
           "hash": null,
@@ -81178,9 +81320,9 @@
           "version": "1.0.5",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_neokey",
           "hash": null,
@@ -81294,9 +81436,9 @@
           "version": "1.2.2",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_displayio_sh1106",
           "hash": null,
@@ -81966,19 +82108,19 @@
           "version": "2.0.6",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_macropad",
           "hash": null,
           "dependencies": {
             "adafruit_hid": "5.2.2",
-            "adafruit_midi": "1.4.6",
+            "adafruit_midi": "1.4.7",
             "neopixel": "6.2.4",
             "adafruit_display_text": "2.22.1",
             "adafruit_simple_text_display": "1.2.3",
-            "adafruit_debouncer": "1.5.0"
+            "adafruit_debouncer": "1.6.0"
           },
           "raw": {
             "package": false,
@@ -82048,9 +82190,9 @@
           "version": "1.1.2",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_pixelbuf",
           "hash": null,
@@ -82138,9 +82280,9 @@
           "version": "1.0.2",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ticks",
           "hash": null,
@@ -82288,9 +82430,35 @@
           "version": "1.2.3",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220309",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220309.zip"
+          },
+          "path": "lib/adafruit_scd4x",
+          "hash": null,
+          "dependencies": {
+            "adafruit_bus_device": "5.1.7"
+          },
+          "raw": {
+            "package": false,
+            "pypi_name": "adafruit-circuitpython-scd4x",
+            "version": "1.2.3",
+            "repo": "https://github.com/adafruit/adafruit_circuitpython_scd4x",
+            "path": "lib/adafruit_scd4x",
+            "dependencies": [
+              "adafruit_bus_device"
+            ],
+            "external_dependencies": []
+          }
+        },
+        "1.3.0": {
+          "package": "adafruit_scd4x",
+          "version": "1.3.0",
+          "bundle": {
+            "name": "adafruit",
+            "build": "20220312",
+            "target": "7",
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_scd4x",
           "hash": null,
@@ -82300,7 +82468,7 @@
           "raw": {
             "package": false,
             "pypi_name": "adafruit-circuitpython-scd4x",
-            "version": "1.2.3",
+            "version": "1.3.0",
             "repo": "https://github.com/adafruit/adafruit_circuitpython_scd4x",
             "path": "lib/adafruit_scd4x",
             "dependencies": [
@@ -82546,8 +82714,8 @@
           "path": "lib/adafruit_is31fl3741",
           "hash": null,
           "dependencies": {
-            "adafruit_framebuf": "1.4.9",
-            "adafruit_register": "1.9.8"
+            "adafruit_framebuf": "1.4.8",
+            "adafruit_register": "1.9.7"
           },
           "raw": {
             "package": true,
@@ -82558,6 +82726,38 @@
             "dependencies": [
               "adafruit_framebuf",
               "adafruit_register"
+            ],
+            "external_dependencies": [
+              "pillow"
+            ]
+          }
+        },
+        "1.2.3": {
+          "package": "adafruit_is31fl3741",
+          "version": "1.2.3",
+          "bundle": {
+            "name": "adafruit",
+            "build": "20220312",
+            "target": "7",
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
+          },
+          "path": "lib/adafruit_is31fl3741",
+          "hash": null,
+          "dependencies": {
+            "adafruit_framebuf": "1.4.9",
+            "adafruit_register": "1.9.8",
+            "adafruit_bus_device": "5.1.8"
+          },
+          "raw": {
+            "package": true,
+            "pypi_name": "adafruit-circuitpython-is31fl3741",
+            "version": "1.2.3",
+            "repo": "https://github.com/adafruit/adafruit_circuitpython_is31fl3741",
+            "path": "lib/adafruit_is31fl3741",
+            "dependencies": [
+              "adafruit_framebuf",
+              "adafruit_register",
+              "adafruit_bus_device"
             ],
             "external_dependencies": [
               "pillow"
@@ -82623,9 +82823,9 @@
           "version": "1.0.2",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ducky",
           "hash": null,
@@ -82707,9 +82907,9 @@
           "version": "1.0.1",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_pcf8563",
           "hash": null,
@@ -82793,9 +82993,9 @@
           "version": "1.0.2",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_st7565",
           "hash": null,
@@ -82867,9 +83067,9 @@
           "version": "1.0.2",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_uc8151d",
           "hash": null,
@@ -82969,9 +83169,9 @@
           "version": "1.0.3",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_radial_controller",
           "hash": null,
@@ -83127,9 +83327,9 @@
           "version": "1.0.5",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_ov5640",
           "hash": null,
@@ -83207,9 +83407,9 @@
           "version": "1.0.2",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_vl53l1x",
           "hash": null,
@@ -83365,9 +83565,9 @@
           "version": "0.5.7",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/asyncio",
           "hash": null,
@@ -83477,9 +83677,9 @@
           "version": "1.0.3",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_24lc32",
           "hash": null,
@@ -83563,9 +83763,9 @@
           "version": "1.1.1",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_adxl37x",
           "hash": null,
@@ -83593,14 +83793,14 @@
           "version": "1.0.0",
           "bundle": {
             "name": "adafruit",
-            "build": "20220304",
+            "build": "20220312",
             "target": "7",
-            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220304.zip"
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
           },
           "path": "lib/adafruit_esp32s2tft",
           "hash": null,
           "dependencies": {
-            "adafruit_portalbase": "1.10.1",
+            "adafruit_portalbase": "1.11.0",
             "neopixel": "6.2.4",
             "adafruit_requests": "1.10.7",
             "adafruit_minimqtt": "5.2.3"
@@ -83616,6 +83816,62 @@
               "neopixel",
               "adafruit_requests",
               "adafruit_minimqtt"
+            ],
+            "external_dependencies": []
+          }
+        }
+      },
+      "adafruit_vl53l4cd": {
+        "1.0.0": {
+          "package": "adafruit_vl53l4cd",
+          "version": "1.0.0",
+          "bundle": {
+            "name": "adafruit",
+            "build": "20220312",
+            "target": "7",
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
+          },
+          "path": "lib/adafruit_vl53l4cd",
+          "hash": null,
+          "dependencies": {
+            "adafruit_bus_device": "5.1.8"
+          },
+          "raw": {
+            "package": false,
+            "pypi_name": "adafruit-circuitpython-vl53l4cd",
+            "version": "1.0.0",
+            "repo": "https://github.com/adafruit/adafruit_circuitpython_vl53l4cd",
+            "path": "lib/adafruit_vl53l4cd",
+            "dependencies": [
+              "adafruit_bus_device"
+            ],
+            "external_dependencies": []
+          }
+        }
+      },
+      "adafruit_tt21100": {
+        "0.8.0": {
+          "package": "adafruit_tt21100",
+          "version": "0.8.0",
+          "bundle": {
+            "name": "adafruit",
+            "build": "20220312",
+            "target": "7",
+            "url": "https://adafruit-circuit-python.s3.amazonaws.com/bundles/adafruit/adafruit-circuitpython-bundle-7.x-mpy-20220312.zip"
+          },
+          "path": "lib/adafruit_tt21100",
+          "hash": null,
+          "dependencies": {
+            "adafruit_bus_device": "5.1.8"
+          },
+          "raw": {
+            "package": false,
+            "pypi_name": "adafruit-circuitpython-tt21100",
+            "version": "0.8.0",
+            "repo": "https://github.com/adafruit/adafruit_circuitpython_tt21100",
+            "path": "lib/adafruit_tt21100",
+            "dependencies": [
+              "adafruit_bus_device"
             ],
             "external_dependencies": []
           }

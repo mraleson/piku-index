@@ -19,8 +19,8 @@ def loads():
         'updated': None
     }
 
-def save(index):
-    path = os.path.join(os.path.dirname(__file__), '../data/packages.json')
+def save(index, file='packages.json'):
+    path = os.path.join(os.path.dirname(__file__), f'../data/{file}')
     with open(path, 'w') as file:
         json.dump(index, file, indent=2)
 
@@ -31,19 +31,21 @@ def normalize_version(version):
 
 # find version of package released less than or equal to build date
 def find_version(packages, package, build):
+    original = package
     if package not in packages:
         if aliases.get(package) in packages:
             aliased.add(package)
             package = aliases.get(package)
     if package not in packages:
         missing.add(package)
-        return None
+        return None, None
     selected = None
     for version in packages[package]:
         candidate = packages[package][version]['bundle']['build']
         if candidate <= build:
             selected = version
-    return selected
+    print(original, package, selected)
+    return package, selected
 
 def update():
     bundle_names = ['community', 'adafruit']
@@ -93,6 +95,9 @@ def update():
                         'dependencies': None,
                         'raw': package_info}
 
+    # before dependency resolution
+    save(index, 'packages.json.bak')
+
     # find package aliases
     for target in index['index']:
         for package in index['index'][target]:
@@ -116,9 +121,9 @@ def update():
                 package_build = package_info['bundle']['build']
                 dependencies = {}
                 for dependency in raw_info['dependencies'] + raw_info.get('external_dependencies', []):
-                    dependency_version = find_version(index['index'][target], dependency, package_build)
-                    if dependency_version:
-                        dependencies[dependency] = dependency_version
+                    dep, ver = find_version(index['index'][target], dependency, package_build)
+                    if ver:
+                        dependencies[dep] = ver
                 index['index'][target][package][version]['dependencies'] = dependencies
 
     # show unresolved dependencies
