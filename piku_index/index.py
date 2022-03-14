@@ -44,7 +44,6 @@ def find_version(packages, package, build):
         candidate = packages[package][version]['bundle']['build']
         if candidate <= build:
             selected = version
-    print(original, package, selected)
     return package, selected
 
 def update():
@@ -82,18 +81,20 @@ def update():
                         index['index'][target][package] = {}
 
                     # update package index
-                    index['index'][target][package][version] = {
-                        'package': package,
-                        'version': package_info['version'],
-                        'bundle': {
-                            'name': bundle,
-                            'build': build,
-                            'target': target,
-                            'url': build_url,},
-                        'path': package_info['path'],
-                        'hash': None,
-                        'dependencies': None,
-                        'raw': package_info}
+                    # (don't overwrite older releases of the same version it breaks dependency resolution)
+                    if version not in index['index'][target][package]:
+                        index['index'][target][package][version] = {
+                            'package': package,
+                            'version': package_info['version'],
+                            'bundle': {
+                                'name': bundle,
+                                'build': build,
+                                'target': target,
+                                'url': build_url,},
+                            'path': package_info['path'],
+                            'hash': None,
+                            'dependencies': None,
+                            'raw': package_info}
 
     # before dependency resolution
     save(index, 'packages.json.bak')
