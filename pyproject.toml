@@ -13,6 +13,7 @@ pindex = 'piku_index.main:main'
 [tool.poetry.dependencies]
 python = "^3.8"
 requests = "^2.27.1"
+cachy = "^0.3.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"

@@ -67,10 +67,10 @@ def update():
                 # get index and zip urls
                 index_url = builds[build]['index']
                 build_url = builds[build]['build']
-                print(target, bundle, build)
+                print('processing: ', target, bundle, build)
 
                 # update index for each package in bundle manifest
-                packages = bundles.get_index(index_url)
+                packages = bundles.get_index(url=index_url) # must call using kwargs due to cachy decorator bug
                 for package in packages:
                     # decompose package info
                     package_info = packages[package]
