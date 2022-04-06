@@ -43,7 +43,7 @@ def get_builds(bundle, target):
     return pruned
 
 # get files in aws bucket
-@cache(minutes=60 * 24 * 90)
+# @cache(minutes=60 * 24 * 90)
 def list_bucket(bucket, bundle, last):
     print('listing: ', bucket, bundle, last)
     bucket_url = f'https://{bucket}.s3.amazonaws.com'
