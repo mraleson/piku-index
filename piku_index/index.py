@@ -48,7 +48,7 @@ def find_version(packages, package, build):
 
 def update():
     bundle_names = ['community', 'adafruit']
-    circuit_python_versions = ['6', '7', '8', '9']
+    circuit_python_versions = ['6', '7', '8', '9', '10']
 
     # get index
     index = loads()
